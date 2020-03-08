@@ -9,4 +9,4 @@ This is all for uploads.
 And if you want to renew the files, you need to command "git pull"
 
 
-git clone "https://github.com/Kazuki-Fujio/Something.git"
+unset SSH_ASKPASS   
